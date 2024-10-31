@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 15, 2014, 11:31:56 AM
+    Author     : Bob Jones
+*/
+table.rhj4_plugins_demo {
+   background-color: lightgray;
+   border: 1px solid black;
+}
+
+.rhj4_plugins_demo input[type='text'] {
+    border: 1px solid black;
+    padding: 4px;
+    margin: 3px;
+    width: 200px;
+}
+
+.rhj4_plugins_demo input[type='radio'] {
+    margin-left: 8px;
+    margin-right: 10px;
+}
+
+.rhj4_plugins_demo input[type='checkbox'] {
+    margin-left: 8px;
+    margin-right: 10px;
+}
+
+.rhj4_plugins_demo select{
+    border: 1px solid black;
+    padding: 4px;
+    margin: 3px
+}
+
+.rhj4_plugins_label {
+    font-weight: bold;
+}
+
+.rhj4_plugins_demo td {
+    vertical-align: middle;
+    color:black;
+}
+
+.rhj4_plugins_comment {
+    color: orange;
+}
+
+.rhj4_plugins_buttons {
+    background-color: silver;
+}
+
+.rhj4_plugins_buttons span.blink {
+    text-decoration: blink;
+    background-color: white;
+    color:red;
+    border: 2px solid black;
+    padding: 5px;
+}
+
